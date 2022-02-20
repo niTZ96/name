@@ -71,23 +71,25 @@ Types:
 - Card with text overlay
 - Horizontal Card
 
-
-
-
 ## Image
-These are not much, just easy to use responsive [images](https://azure-ui.netlify.app/components/image/image.html)
+The Image component allows you to place an image on your page.
+You can find the documentation [here](https://robyn-ui.netlify.app/components/image/image.html).
 Types:
 - Responsive Image
-- Rounded Image
+- Round Image
 
 
 ## Input
-[Input](https://azure-ui.netlify.app/components/input/input.html) fields such as email or password that is used to collect information from the users.
+Input fields are an essential user interface design element, providing users with the means to enter non-standardized responses. Input component has a range of options and supports several text formats including numbers.
+You can find the documentation [here](https://robyn-ui.netlify.app/components/input/input.html).
 Type:
-- Email
+- Textbox with text area
+- Textbox with input
+- Input With Validation
 
 ## List
-well, [lists](https://azure-ui.netlify.app/components/list/list.html) are just simple lists or stacked lists.
+Lists are continuous, vertical indexes of text or images. 
+You can find the documentation [here](https://robyn-ui.netlify.app/components/list/list.html).
 Types:
 - Spaced List
 - Stacked List
