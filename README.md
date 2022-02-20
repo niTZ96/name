@@ -5,23 +5,24 @@ Robyn allows you to design and build web Apps faster by providing a range of reu
 To get the styles of the components add the following line of code in the head tag of your HTML document on top of all other stylesheet link in order to avoid source order issues.
 ```html
 <link rel="stylesheet" href="https://robyn-ui.netlify.app/components/import.css">
-``
+```
 
-### What are the components provided by Azure UI?
-1. [Alert](#alert)
-2. [Avatar](#avatar)
-3. [Badge](#badge)
-4. [Button](#button)
-5. [Card](#card)
-6. [Grid](#grid)
-7. [Image](#image)
-8. [Input](#input)
-9. [List](#list)
+### Components provided by Robyn UI :
+1.  [Alert](#alert)
+2.  [Avatar](#avatar)
+3.  [Badge](#badge)
+4.  [Button](#button)
+5.  [Card](#card)
+6.  [Image](#image)
+7.  [Input](#input)
+8.  [List](#list)
+9.  [Modal](#modal)
 10. [Navigation](#navigation)
 11. [Rating](#rating)
-12. [Modal](#modal)
-13. [Toast](#toast)
-14. [Typography](#typography)
+12. [Toast](#toast)
+13. [Slider](#slider)
+14. [Simplified Grid](#Simplified Grid)
+15. [Typography](#typography)
 
 ## Alert
 Alerts are those small pop up messages that come up on the screen that gives a brief about the action performed by the user.
