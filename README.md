@@ -25,12 +25,12 @@ To get the styles of the components add the following line of code in the head t
 15. [Typography](#typography)
 
 ## Alert
-Alerts are those small pop up messages that come up on the screen that gives a brief about the action performed by the user.
-You can find the documentation [here](https://azure-ui.netlify.app/components/alert/alert.html)
-Azure UI has covered all the types of alerts:
-- Information Alert
+The Alert component is used to displays a short, important message in a way that attracts the user's attention without interrupting the user's task.
+You can find the documentation [here](https://robyn-ui.netlify.app/components/alert/alert.html)
+Robyn UI has covered these types of alerts:
 - Success Alert
 - Danger Alert
+- Information Alert
 - Warning Alert
 
 ## Avatar
