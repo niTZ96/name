@@ -21,7 +21,7 @@ To get the styles of the components add the following line of code in the head t
 11. [Rating](#rating)
 12. [Toast](#toast)
 13. [Slider](#slider)
-14. [Simplified Grid](#Grids)
+14. [Simplified Grid](#Grid)
 15. [Typography](#typography)
 
 ## Alert
