@@ -27,7 +27,7 @@ To get the styles of the components add the following line of code in the head t
 ## Alert
 The Alert component is used to displays a short, important message in a way that attracts the user's attention without interrupting the user's task.
 You can find the documentation [here](https://robyn-ui.netlify.app/components/alert/alert.html).
-Robyn UI has covered these types of alerts:
+Types:
 - Success Alert
 - Danger Alert
 - Information Alert
@@ -36,7 +36,7 @@ Robyn UI has covered these types of alerts:
 ## Avatar
 The Avatar component is used to represent a user, and displays the profile picture, initials or fallback icon.
 You can find the documentation [here](https://robyn-ui.netlify.app/components/avatar/avatar.html)
-Types of avatars:
+Types:
 - Profile Avatar
 - Square Avatar
 - Sized Avatar
@@ -44,39 +44,35 @@ Types of avatars:
 ## Badge
 A Badge is a visual indicator for numeric values such as tallies and notifications pending. It is also used to show online and offline status of a person.
 You can find the documentation [here](https://robyn-ui.netlify.app/components/badge/badge.html).
-Types of Badges:
+Types:
 - Badge On Icons
 - Badge On Avatar
 
 ## Button
-As simple as it can be, buttons are a medium through which users can interact with the screens or perform any action.
-Learn how to use Azure UI's [buttons](https://azure-ui.netlify.app/components/button/button.html)
+The Button component lets you add standard HTML buttons to your project. It allow users to take actions, and make choices, with a single tap.
+You can find the documentation [here](https://robyn-ui.netlify.app/components/buttons/button.html).
 Types:
-- Contained buttons
-- Ghost buttons
 - Default buttons
-- Raised buttons
-- Buttons with icons
-- Smooth buttons
-- Circluar floating button
-- Rounded floating button
-- Link/text button
+- Standard Button
+- Outlined Button
+- Icon Button
+- Link Button
+- Floating Action Button
 
 ## Card
-They contain a collected information about a similar topic. Cards come in a lot of variety, some of have text or images or both and also come Call to Action Buttons.
-You can find different cards [here](https://azure-ui.netlify.app/components/card/card.html):
-- Simple text cards
-- Card with Image
-- Horizontal Card
-- Card with Badge
+The card component is used to group various pieces of content into a container which can be used throughout your website. They should be easy to scan for relevant and actionable information.
+You can find the documentation [here](https://robyn-ui.netlify.app/components/card/card.html).
+Types:
+- Card With Text
+- Card With Dismiss
+- Card With Shadow
+- Product Card
+- Card With Badge
 - Card with text overlay
+- Horizontal Card
 
-## Grid
-[Grids](https://azure-ui.netlify.app/components/grid/grid.html) come in handy when you have multiple items that you want to display side by side or when you want to display couple of items in a particular layout.
-It comes in the following variety:
- - Two Column Grid
- - Three Column Grid
- - Masonry Grid of 4 columns
+
+
 
 ## Image
 These are not much, just easy to use responsive [images](https://azure-ui.netlify.app/components/image/image.html)
@@ -119,3 +115,10 @@ You can find documentation [here](https://azure-ui.netlify.app/components/modal/
 ## Typography
 These includes everything about texts: heading, paragraphs, aligned texts, etc.
 Check [here](https://azure-ui.netlify.app/components/text/text.html)
+
+## Grid
+[Grids](https://azure-ui.netlify.app/components/grid/grid.html) come in handy when you have multiple items that you want to display side by side or when you want to display couple of items in a particular layout.
+It comes in the following variety:
+ - Two Column Grid
+ - Three Column Grid
+ - Masonry Grid of 4 columns
