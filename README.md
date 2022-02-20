@@ -1,13 +1,11 @@
-### What is Azure UI?
-Azure UI is a CSS based component library developed to be used in any HTML file. Most of basic components can be imported from here and can be used according to any
-user's need. 
+### What is Robyn UI?
+Robyn allows you to design and build web Apps faster by providing a range of reusable components.Spend less time in designing and concentrate more on logic without hustling on UI.
 
 ### How to set it up?
-To get the styles of the components and the JavaScript functionality, add the following line of code in the head tag of your HTML document.
+To get the styles of the components add the following line of code in the head tag of your HTML document on top of all other stylesheet link in order to avoid source order issues.
 ```html
-<link rel="stylesheet" href="https://azure-ui.netlify.app/main.css">
-<script src="https://azure-ui.netlify.app/app.js" defer> </script>
-```
+<link rel="stylesheet" href="https://robyn-ui.netlify.app/components/import.css">
+``
 
 ### What are the components provided by Azure UI?
 1. [Alert](#alert)
