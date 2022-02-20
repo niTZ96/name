@@ -6,10 +6,10 @@
 
 
 
-### What is Robyn UI?
+### Robyn UI
 Robyn allows you to design and build web Apps faster by providing a range of reusable components.Spend less time in designing and concentrate more on logic without hustling on UI.
 
-### How to set it up?
+### Installation
 To get the styles of the components add the following line of code in the head tag of your HTML document on top of all other stylesheet link in order to avoid source order issues.
 ```html
 <link rel="stylesheet" href="https://robyn-ui.netlify.app/components/import.css">
