@@ -94,33 +94,37 @@ Types:
 - Spaced List
 - Stacked List
 
+## Modal 
+A Modal is a message box that is displayed on top of your screen.
+You can find documentation [here](https://robyn-ui.netlify.app/components/modal/modal.html)
+
 ## Navigation
-Navigations are used to navigate from one page to another. Its a very important part of a web app, usually present on the top of the page.
-Navigation comes in the following [types](https://azure-ui.netlify.app/components/nav/doc-nav.html):
-- Reponsive navbar
-- Dark mode Navbar
-- Navbar with submenus
+Navigation component helps you implement navigation, from simple button clicks to more complex patterns, such as app bars and the navigation drawer. 
+You can find documentation [here](https://robyn-ui.netlify.app/components/navigation/navigation.html)
+- Navigation Desktop
+- Navigation With Drawer
+- Navigation With Dropdown
 
 ## Rating
-[Ratings](https://azure-ui.netlify.app/components/rating/rating.html) are used to give feedback for products or services
-Different types:
-- Simple Rating
-- Compact Rating
-
-## Modal 
-Modals are those pop-up boxes that appear on the screen when an user takes any action.
-You can find documentation [here](https://azure-ui.netlify.app/components/modal/modal.html)
+Rating Component helps capture the user feedback in form of rating.
+You can find documentation [here](https://robyn-ui.netlify.app/components/rating/rating.html)
 
 ## Toast
-[Toast](https://azure-ui.netlify.app/components/toast/toast.html) messages are not small messages that disappear after few seconds, again giving a status of the user action.
+The toast component is a non-disruptive message that appears at the bottom of the interface to provide quick, at-a-glance feedback on the outcome of an action.
+You can find documentation [here](https://robyn-ui.netlify.app/components/toast/toast.html)
 
-## Typography
-These includes everything about texts: heading, paragraphs, aligned texts, etc.
-Check [here](https://azure-ui.netlify.app/components/text/text.html)
+## Slider
+The Slider component selects a numeric value in a specific range by dragging a thumb along a track.
+You can find documentation [here](https://robyn-ui.netlify.app/components/slider/slider.html)
 
 ## Grid
-[Grids](https://azure-ui.netlify.app/components/grid/grid.html) come in handy when you have multiple items that you want to display side by side or when you want to display couple of items in a particular layout.
-It comes in the following variety:
+Use grid when you want sections in view that changes the count of the card in a row according to the size of the view port.
+You can find documentation [here](https://robyn-ui.netlify.app/components/grid/grid.html)
+Types:
  - Two Column Grid
  - Three Column Grid
- - Masonry Grid of 4 columns
+
+## Typography
+The different typography used by robyn is presented here.
+You can find documentation [here](https://robyn-ui.netlify.app/components/typography/typography.html)
+
