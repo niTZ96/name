@@ -34,22 +34,20 @@ Robyn UI has covered these types of alerts:
 - Warning Alert
 
 ## Avatar
-Avatar are those circular or rectangular display pictures that represents an user.
-Check out about Avatars [here](https://azure-ui.netlify.app/components/avatar/avatar.html)
+The Avatar component is used to represent a user, and displays the profile picture, initials or fallback icon.
+You can find the documentation [here](https://robyn-ui.netlify.app/components/avatar/avatar.html)
 Types of avatars:
-- Circular
-- Rounded Rectangle
-Available in different sizes? Check ✔
+- Profile Avatar
+- Square Avatar
+- Sized Avatar
 
 ## Badge
-The small circular indicators on top of an icon or an avatar that basically depicts any notifications or new updates.
-Learn more about [badges](https://azure-ui.netlify.app/components/badge/badge.html)
+A Badge is a visual indicator for numeric values such as tallies and notifications pending. It is also used to show online and offline status of a person.
+You can find the documentation [here](https://robyn-ui.netlify.app/components/badge/badge.html).
+
 Types of Badges:
-- icons with text badge
-- icons with indicator badge
-- avatar with text badge
-- avatar with indicator badge
-Available in different sizes? Check ✔
+- Badge On Icons
+- Badge On Avatar
 
 ## Button
 As simple as it can be, buttons are a medium through which users can interact with the screens or perform any action.
