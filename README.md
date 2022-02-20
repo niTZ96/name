@@ -44,7 +44,6 @@ Types of avatars:
 ## Badge
 A Badge is a visual indicator for numeric values such as tallies and notifications pending. It is also used to show online and offline status of a person.
 You can find the documentation [here](https://robyn-ui.netlify.app/components/badge/badge.html).
-
 Types of Badges:
 - Badge On Icons
 - Badge On Avatar
