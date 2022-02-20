@@ -26,7 +26,7 @@ To get the styles of the components add the following line of code in the head t
 
 ## Alert
 The Alert component is used to displays a short, important message in a way that attracts the user's attention without interrupting the user's task.
-You can find the documentation [here](https://robyn-ui.netlify.app/components/alert/alert.html)
+You can find the documentation [here](https://robyn-ui.netlify.app/components/alert/alert.html).
 Robyn UI has covered these types of alerts:
 - Success Alert
 - Danger Alert
